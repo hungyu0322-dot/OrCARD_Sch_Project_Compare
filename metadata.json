@@ -1,0 +1,5 @@
+{
+  "name": "CES-PCW PRO: AI Schematic Analyzer",
+  "description": "An advanced engineering tool for comparing OrCAD electrical schematics and component BOMs, featuring AI-powered impact analysis of design revisions.",
+  "requestFramePermissions": []
+}
